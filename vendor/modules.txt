@@ -25,6 +25,9 @@ github.com/go-sql-driver/mysql
 # github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572
 ## explicit; go 1.13
 github.com/go-task/slim-sprig
+# github.com/golang-jwt/jwt v2.7.0+incompatible
+## explicit
+github.com/golang-jwt/jwt
 # github.com/google/go-cmp v0.5.9
 ## explicit; go 1.13
 github.com/google/go-cmp/cmp

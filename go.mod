@@ -6,8 +6,8 @@ require (
 	github.com/DATA-DOG/go-sqlmock v0.0.0-20180221072120-a6b4b164c6d1
 	github.com/PuerkitoBio/goquery v0.0.0-20150328133056-269246d9e7d4
 	github.com/chrj/smtpd v0.0.0-20140720195347-c6fe39d4dcdd
-	github.com/dgrijalva/jwt-go v0.0.0-20141103211122-47b263f02057
 	github.com/go-sql-driver/mysql v1.4.1
+	github.com/golang-jwt/jwt v2.7.0+incompatible
 	github.com/gorilla/mux v0.0.0-20131205071822-9ede152210fa
 	github.com/onsi/ginkgo/v2 v2.9.4
 	github.com/onsi/gomega v1.27.6
@@ -27,6 +27,7 @@ require (
 require (
 	bitbucket.org/chrj/smtpd v0.0.0-20170817182725-9ddcdbda0f7a // indirect
 	github.com/andybalholm/cascadia v0.0.0-20150328005534-54abbbf07a45 // indirect
+	github.com/dgrijalva/jwt-go v0.0.0-20141103211122-47b263f02057 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
